@@ -7,8 +7,9 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+To start setup, I used Google Cloud Platform and started off by creating a student account and starting a new project.
 
-<img src="mhn-admin.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlhNGI3YzllMTA4NzUzYzE3N2ZmYWI2NmMxMDJlZWRiZmFiYWU2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bloAGUhfcTW2zrcGeI/giphy.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
